@@ -1,0 +1,13 @@
+# Tous les dossiers target de tous les projets
+target/
+
+# Ou explicitement
+**/target/
+
+
+**/Cargo.lock
+
+
+# Fichiers d'environnement
+.env
+**/.env
